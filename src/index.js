@@ -1,29 +1,37 @@
 // index.js
 
+
 // Callbacks
 const handleClick = (ramen) => {
-  // Add code
-};
+     // Add code
 
+};
 const addSubmitListener = () => {
-  // Add code
+  //Add code
+
 }
 
 const displayRamens = () => {
-  // Add code
+  //Add code
+
 };
 
 const main = () => {
+  addSubmitListener();
+  displayRamens();
   // Invoke displayRamens here
   // Invoke addSubmitListener here
+ 
 }
 
-main()
+
+main();
 
 // Export functions for testing
+
 export {
   displayRamens,
   addSubmitListener,
   handleClick,
   main,
-};
+}

@@ -23,7 +23,7 @@ Use this gif as an example of how the app should work.
 - Run `npm install` to install the dependencies.
 - Run `json-server --watch db.json` to get the backend started
 - Run `npm install -g live-server` to install live-server globally
-- Run `live-server` to start the frontend in browser
+- Run ` to start the frontend in browser
 - Write your code in the `index.js` file
 - As you are writing your code out and completing the deliverables ensure that it works on the DOM and passes the tests by running `npm test` in a new terminal in the same directory
 
